@@ -1,0 +1,268 @@
+{
+  "beginner": {
+    "title": "Stage 1",
+    "description": "Foundational readings for new believers",
+    "completed": false,
+    "books": [
+      {
+        "id": "bg_b1",
+        "title": "1. Welcome to Gods Family",
+        "author": "Kenneth-E.-Hagin"
+      },
+      {
+        "id": "bg_b2",
+        "title": "2. Choices, key to destiny",
+        "author": "Pastor Bankie Olusina"
+      },
+      {
+        "id": "bg_b3",
+        "title": "3. Plans Purposes and Pursuits",
+        "author": "Kenneth-E.-Hagin"
+      },
+      {
+        "id": "bg_b3b",
+        "title": "3b. Growing Up Spiritually",
+        "author": "Kenneth-E.-Hagin"
+      },
+      {
+        "id": "bg_b4",
+        "title": "4. Following Gods Plan For Your Life",
+        "author": "Kenneth-E.-Hagin"
+      },
+      {
+        "id": "bg_b5",
+        "title": "5. Needless Casualties of War",
+        "author": "John Paul Jackson"
+      },
+      {
+        "id": "bg_b6",
+        "title": "6. The Three Battlegrounds",
+        "author": "Francis Frangipane"
+      },
+      {
+        "id": "bg_b7",
+        "title": "7. Unlocking Your Dreams",
+        "author": "John Paul Jackson"
+      },
+      {
+        "id": "bg_b8",
+        "title": "8. Christian Dress Article Tract",
+        "author": "Pastor Ita Udoh"
+      },
+      {
+        "id": "bg_b9",
+        "title": "9. I Dared To Call Him Father",
+        "author": "Bilquis Sheikh"
+      },
+      {
+        "id": "bg_b10",
+        "title": "10. So Who Will Pay For This",
+        "author": "Pastor Bankie"
+      },
+      {
+        "id": "bg_b12",
+        "title": "12. The Call",
+        "author": "Rick Joyner"
+      },
+      {
+        "id": "bg_b12a",
+        "title": "12b. Final Quest",
+        "author": "Rick Joyner"
+      },
+      {
+        "id": "bg_b13",
+        "title": "13. The Magician's Nephew (Chronicles of Narnia 1)",
+        "author": "C.S. Lewis"
+      },
+      {
+        "id": "bg_b14",
+        "title": "14. The Lion, the Witch and the Wardrobe",
+        "author": "C.S. Lewis"
+      },
+      {
+        "id": "bg_b15",
+        "title": "15. The Horse and His Boy",
+        "author": "C.S. Lewis"
+      },
+      {
+        "id": "bg_b16",
+        "title": "16. The Pilgrim's Progress",
+        "author": "John Bunyan"
+      }
+    ]
+  },
+  "intermediate": {
+    "title": "Stage 2",
+    "description": "Intermediate readings for growing believers",
+    "completed": false,
+    "books": [
+      {
+        "id": "int_b14",
+        "title": "1. Good Morning Holy Spirit",
+        "author": "Benny Hinn"
+      },
+      {
+        "id": "int_b15",
+        "title": "2. How You Can Be Led By The Spirit of God",
+        "author": "Kenneth E. Hagin"
+      },
+      {
+        "id": "int_b16a",
+        "title": "3. How To Work For God",
+        "author": "Pastor Bankie"
+      },
+      {
+        "id": "int_b16b",
+        "title": "4. He That Believes",
+        "author": "Pastor Bankie"
+      },
+      {
+        "id": "int_b17",
+        "title": "5. The Woman Question",
+        "author": "The River Church"
+      },
+      {
+        "id": "int_b18a",
+        "title": "6. The Believers Authority",
+        "author": "Kenneth E. Hagin"
+      },
+      {
+        "id": "int_b18b",
+        "title": "7. Prayer and the Demonic Realm",
+        "author": "John Mulinde"
+      },
+      {
+        "id": "int_b19",
+        "title": "8. When God Walked the Earth",
+        "author": "Rick Joyner"
+      },
+      {
+        "id": "int_b21",
+        "title": "9. Hinds' Feet On High Places",
+        "author": "Hannah Hurnard"
+      },
+      {
+        "id": "int_b23",
+        "title": "10. Compelled by Love",
+        "author": "Heidi Baker"
+      },
+      {
+        "id": "int_b24",
+        "title": "11. Jesus Freaks Martyrs Stories",
+        "author": "DC Talk"
+      },
+      {
+        "id": "int_b25",
+        "title": "12. The Path (Fire on the Mountain)",
+        "author": "Rick Joyner"
+      },
+      {
+        "id": "int_b26",
+        "title": "13. The Valley (Fire on the Mountain Series)",
+        "author": "Rick Joyner"
+      },
+      {
+        "id": "int_b27",
+        "title": "14. God's Generals: The Revivalists",
+        "author": "Roberts Liardon"
+      },
+      {
+        "id": "int_b28",
+        "title": "15. Revival Among The Zulus",
+        "author": "Erlo Stegen"
+      },
+      {
+        "id": "int_b29",
+        "title": "16. God's Generals: The Healing Evangelists",
+        "author": "Roberts Liardon"
+      },
+      {
+        "id": "int_b30",
+        "title": "17. The Heavenly Man",
+        "author": "Brother Yun"
+      },
+      {
+        "id": "int_b31",
+        "title": "18. God's Generals: The Roaring Reformers",
+        "author": "Roberts Liardon"
+      },
+      {
+        "id": "int_b32",
+        "title": "19. Angels On Assignment",
+        "author": "Charles and Frances Hunter"
+      },
+      {
+        "id": "int_b33",
+        "title": "20. God's Smugglers",
+        "author": "Brother Andrew"
+      },
+      {
+        "id": "int_b34",
+        "title": "21. This Present Darkness",
+        "author": "Frank E. Peretti"
+      },
+      {
+        "id": "int_b35",
+        "title": "22. Piercing the Darkness",
+        "author": "Frank E. Peretti"
+      }
+    ]
+  },
+  "advanced": {
+    "title": "Stage 3",
+    "description": "Advanced readings for mature believers",
+    "completed": false,
+    "books": [
+      {
+        "id": "adv_b36",
+        "title": "1. Torch and the Sword",
+        "author": "Rick Joyner"
+      },
+      {
+        "id": "adv_b37",
+        "title": "2. The Screwtape Letters",
+        "author": "C.S. Lewis"
+      },
+      {
+        "id": "adv_b38",
+        "title": "3. Foxe's Book of Martyrs",
+        "author": "John Foxe"
+      },
+      {
+        "id": "adv_b39",
+        "title": "4. Tortured for Christ",
+        "author": "DC Talk"
+      },
+      {
+        "id": "adv_b40",
+        "title": "5. He Came To Set The Captives Free",
+        "author": "Rebecca Brown"
+      },
+      {
+        "id": "adv_b41",
+        "title": "6. Prepare for War",
+        "author": "Rebecca Brown"
+      },
+      {
+        "id": "adv_b42",
+        "title": "7. Growing In The Prophetic",
+        "author": "Mike Bickle"
+      },
+      {
+        "id": "adv_b43",
+        "title": "8. Love The Road To Victory",
+        "author": "Kenneth E. Hagin"
+      },
+      {
+        "id": "adv_b44",
+        "title": "9. The Harvest (Updated and Expanded)",
+        "author": "Rick Joyner"
+      },
+      {
+        "id": "adv_b45",
+        "title": "10. Love Not The World",
+        "author": "Watchman Nee"
+      }
+    ]
+  }
+}

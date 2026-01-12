@@ -1,0 +1,1728 @@
+{
+
+  "beginners": {
+    "title": "Beginners",
+    "description": "Foundation teachings for new believers",
+    "completed": false,
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "title": "Elementary Principles Of Christ: Overview and Repentance from Dead Works.",
+        "audios": [
+          {
+            "id": "bg_w1_a1",
+            "title": "Elementary Principles Of Christ: Overview I",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w1_a2",
+            "title": "Elementary Principles Of Christ: Overview II",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w1_a3",
+            "title": "Stages of Christian Growth: Discipleship",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w1_a4",
+            "title": "Stages of Christian Growth: Servant and Friends",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w1_a5",
+            "title": "Stages of Christian Growth: Sons of God",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w1_a6",
+            "title": "Repentance From Dead Works",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w1_a7",
+            "title": "Repentance From Dead Works",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w1_a8",
+            "title": "Repentance From Dead Works",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "title": "Elementary Principles Of Christ: Faith Towards God and Water Baptism",
+        "audios": [
+          {
+            "id": "bg_w2_a1",
+            "title": "Elementary Principles Of Christ: Faith Towards God",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w2_a2",
+            "title": "Elementary Principles Of Christ: Faith Towards God",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w2_a3",
+            "title": "Elementary Principles Of Christ: Water Baptism",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w2_a4",
+            "title": "Elementary Principles Of Christ: Water Baptism",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "title": "Elementary Principles Of Christ: Fire Baptism and Holy Spirit Baptism",
+        "audios": [
+          {
+            "id": "bg_w3_a1",
+            "title": "Elementary Principles Of Christ: Holy Spirit Baptism",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w3_a2",
+            "title": "Elementary Principles Of Christ: Holy Spirit Baptism",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w3_a3",
+            "title": "Elementary Principles Of Christ: Baptism of Fire",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w3_a4",
+            "title": "Elementary Principles Of Christ: Baptism of Fire",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "title": "Elementary Principles Of Christ: Laying On Of Hands and Ressurection Of The Dead",
+        "audios": [
+          {
+            "id": "bg_w4_a1",
+            "title": "Elementary Principles Of Christ: Laying On Of Hands",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w4_a2",
+            "title": "Elementary Principles Of Christ: Laying On Of Hands",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w4_a3",
+            "title": "Elementary Principles Of Christ: Laying On Of Hands",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w4_a4",
+            "title": "Elementary Principles Of Christ: Laying On Of Hands",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 5,
+        "title": "Elementary Principles Of Christ: Eonian Judgement. | Natural vs Godly Wisdom",
+        "audios": [
+          {
+            "id": "bg_w5_a1",
+            "title": "Elementary Principles Of Christ: Eternal Judgement",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w5_a2",
+            "title": "Elementary Principles Of Christ: Eternal Judgement",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w5_a3",
+            "title": "Elementary Principles Of Christ: Eternal Judgement",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w5_a4",
+            "title": "Elementary Principles Of Christ: Eternal Judgement",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w5_a6",
+            "title": "Natural VS Godly Wisdom",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 6,
+        "title": "Hearing God & Praying Against Principalities",
+        "audios": [
+          {
+            "id": "bg_w6_a1",
+            "title": "Hearing God",
+            "date": "2017"
+          },
+          {
+            "id": "bg_w6_a1",
+            "title": "Praying Against Principalities",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 7,
+        "title": "Handling Opposition from Families & The Purpose of Scriptures",
+        "audios": [
+          {
+            "id": "bg_w7_a1",
+            "title": "Handling Opposition from Families",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w7_a2",
+            "title": "The Purpose Of Scriptures",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 8,
+        "title": "Parapets-Immorality Safeguards",
+        "audios": [
+          {
+            "id": "bg_w8_a1",
+            "title": "Parapets-Immorality Safeguards 1",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w8_a3",
+            "title": "Parapets-Immorality Safeguards 2",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w8_a3",
+            "subfolder": "Parapets-Immorality Safeguards",
+            "title": "Parapets-Immorality Safeguards 3",
+            "filePath": "../../assets/audio/full_audio/beginners/Week8/Giving & Parapets 03 - (GLH-FRI19022021).mp3",
+            "duration": null,
+            "date": "2021"
+          },
+          {
+            "id": "bg_w8_a4",
+            "title": "Parapets-Immorality Safeguards 4",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w8_a5",
+            "title": "Parapets-Immorality Safeguards 5",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w8_a6",
+            "title": "The Two Laws",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 9,
+        "title": "Prayer & Three Battlegrounds",
+        "audios": [
+          {
+            "id": "bg_w9_a1",
+            "title": "Keys to Effective Prayer",
+            "date": "2023"
+          },
+          {
+            "id": "bg_w9_a2",
+            "title": "Keys to Effective Prayer",
+            "date": "2023"
+          },
+          {
+            "id": "bg_w9_a3",
+            "title": "Three Battlegrounds",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 10,
+        "title": "Interpretations of Dreams-Revelations & Backsliding-No return to Egypt",
+        "audios": [
+          {
+            "id": "bg_w10_a1",
+            "title": "Interpretations of Dreams-Revelations",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w10_a2",
+            "title": "Backsliding: No Return To Egypt",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 11,
+        "title": "8 Steps in Christian Growth & True Gospel of the Kingdom",
+        "audios": [
+          {
+            "id": "bg_w11_a1",
+            "title": "8 Steps in Christian Growth",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w11_a2",
+            "title": "True Gospel of the Kingdom",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w11_a3",
+            "title": "True Gospel of the Kingdom",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 12,
+        "title": "Traditions of Men vs God & Evangelism",
+        "audios": [
+          {
+            "id": "bg_w12_a1",
+            "title": "Traditions of Men vs God",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w12_a2",
+            "title": "Evangelism",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 13,
+        "title": "Tests, Temptations and Trees | Overcoming Evil Thoughts",
+        "audios": [
+          {
+            "id": "bg_w13_a1",
+            "title": "Overcoming Evil Thoughts",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w13_a2",
+            "title": "Tests, Temptations and Trees ",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 14,
+        "title": "Forgiveness And Trespass. & Unbelievers vs Believers",
+        "audios": [
+          {
+            "id": "bg_w14_a1",
+            "title": "Forgiveness And Trespass",
+            "date": "2017"
+          },
+          {
+            "id": "bg_w14_a2",
+            "title": "Unbelievers vs Believers",
+            "date": "2017"
+          },
+          {
+            "id": "bg_w14_a3",
+            "title": "Unbelievers vs Believers",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 15,
+        "title": "Giants In The Land & Giving/Tithing",
+        "audios": [
+          {
+            "id": "bg_w15_a1",
+            "title": "Giants In The Land",
+            "date": "2017"
+          },
+          {
+            "id": "bg_w15_a2",
+            "title": "Giving/Tithing ",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 16,
+        "title": "Praise:New Songs || Shepherd and Sheep",
+        "audios": [
+          {
+            "id": "bg_w16_a1",
+            "title": "Praise:New Songs",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w16_a2",
+            "title": "Shepherd and Sheep",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w16_a3",
+            "title": "Shepherd and Sheep",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w16_a4",
+            "title": "Shepherd and Sheep",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 17,
+        "title": "Prayer&Praise Over worry || Respect For Parents And Government",
+        "audios": [
+          {
+            "id": "bg_w17_a1",
+            "title": "Prayer&Praise Over worry",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w17_a2",
+            "title": "Respect For Parents And Government",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w17_a3",
+            "title": "Respect For Parents And Government",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w17_a4",
+            "title": "Respect For Parents And Government",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 18,
+        "title": "Armour Of God & Christian Dressing",
+        "audios": [
+          {
+            "id": "bg_w18_a1",
+            "title": "Armour Of God",
+            "date": "2017"
+          },
+          {
+            "id": "bg_w18_a2",
+            "title": "Christian Dressing",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 19,
+        "title": "Refiner's Fire (woes of the greedy) || Power Of Scriptures",
+        "audios": [
+          {
+            "id": "bg_w19_a1",
+            "title": "Refiner's Fire (woes of the greedy)",
+            "date": "2017"
+          },
+          {
+            "id": "bg_w19_a2",
+            "title": "Power Of Scriptures",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 20,
+        "title": "False Spirits-Testing The Spirits || Walking in the light-authorities",
+        "audios": [
+          {
+            "id": "bg_w20_a1",
+            "title": "False Spirits-Testing The Spirits",
+            "date": "2019"
+          },
+          {
+            "id": "bg_w20_a2",
+            "title": " Walking in the light-authorities A",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w20_a3",
+            "title": " Walking in the light-authorities B",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w20_a4",
+            "title": " Walking in the light-authorities C",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w20_a5",
+            "title": " Walking in the light-authorities D",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 21,
+        "title": "Pride and Humility || Battle Strategies: David and Goliath.",
+        "audios": [
+          {
+            "id": "bg_w21_a1",
+            "title": "Pride and Humility",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 22,
+        "title": "The Lord's Table",
+        "audios": [
+          {
+            "id": "bg_w22_a1",
+            "title": "The Lord's Table",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 23,
+        "title": "Understanding the Spirit Realm || Natural Man vs Spiritual Man",
+        "audios": [
+          {
+            "id": "bg_w23_a1",
+            "title": "Understanding the Spirit Realm",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w23_a2",
+            "title": "Natural Man vs Spiritual Man",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 24,
+        "title": "God's Will vs God's Plans || Greed/First fruits",
+        "audios": [
+          {
+            "id": "bg_w24_a1",
+            "title": "God's Will vs God's Plan",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w24_a2",
+            "title": "God's Will vs God's Plan 2",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w24_a3",
+            "title": "Greed/First fruits 1",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w24_a4",
+            "title": "Greed/First fruits 2",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w24_a5",
+            "title": "Greed/First fruits 3",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 25,
+        "title": "Incense And Thanksgiving",
+        "audios": [
+          {
+            "id": "bg_w25_a1",
+            "title": "Incense And Thanksgiving",
+            "date": "2021"
+          },
+          {
+            "id": "bg_w25_a2",
+            "title": "Incense And Thanksgiving",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 26,
+        "title": "The Study On John 8 & Crossing The Jordan",
+        "audios": [
+          {
+            "id": "bg_w26_a1",
+            "title": "The Study On John",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w26_a2",
+            "title": "Crossing The Jordan",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w26_a3",
+            "title": "Crossing The Jordan",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w26_a4",
+            "title": "Crossing The Jordan",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w26_a5",
+            "title": "Crossing The Jordan",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w26_a6",
+            "title": "Crossing The Jordan",
+            "date": "2018"
+          },
+          {
+            "id": "bg_w26_a7",
+            "title": "Crossing The Jordan",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 27,
+        "title": "The 3 feasts: Passover || The 3 feasts: Pentecost",
+        "audios": [
+          {
+            "id": "bg_w27_a1",
+            "title": "The 3 feasts: Passover",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w27_a2",
+            "title": "The 3 feasts: Passover 02",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w27_a3",
+            "title": "The 3 feasts: Passover 03",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w27_a4",
+            "title": "The 3 feasts: Pentecost 01",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w27_a5",
+            "title": "The 3 feasts: Pentecost 02",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w27_a6",
+            "title": "The 3 feasts: Pentecost 03",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w27_a7",
+            "title": "The 3 feasts: Pentecost 04",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 28,
+        "title": "The 3 feasts: Tabernacles || Greater works: Feet washing",
+        "audios": [
+          {
+            "id": "bg_w28_a1",
+            "title": "Feet washing",
+            "date": "2023"
+          },
+          {
+            "id": "bg_w28_a2",
+            "subfolder": "Fet washing",
+            "title": "Feet washing",
+            "date": "2023"
+          },
+          {
+            "id": "bg_w28_a3",
+            "title": "The 3 feasts: Tabernacles",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w28_a4",
+            "title": "The 3 feasts: Tabernacles 02",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w28_a5",
+            "title": "The 3 feasts: Tabernacles 03",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w28_a6",
+            "title": "The 3 feasts: Tabernacles 04",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 29,
+        "title": "False Accusations Against GLH",
+        "audios": [
+          {
+            "id": "bg_w29_a1",
+            "title": "False Accusations Against GLH",
+            "date": "2020"
+          },
+          {
+            "id": "bg_w29_a2",
+            "title": "False Accusations Against GLH",
+            "date": "2017"
+          }
+        ]
+      }
+    ]
+  },
+
+  "intermediary": {
+    "title": "Intermediary",
+    "description": "Deeper teachings for growing believers",
+    "completed": false,
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "title": "Suffering and the Christian || Martyrdom",
+        "audios": [
+          {
+            "id": "int_w1_a1",
+            "title": "Suffering And The Christian",
+            "date": "2018"
+          },
+          {
+            "id": "int_w1_a2",
+            "title": "Martyrdom",
+            "date": "2021"
+          },
+          {
+            "id": "int_w1_a3",
+            "title": "Martyrdom",
+            "date": "Week 1"
+          },
+          {
+            "id": "int_w1_a4",
+            "title": "Martyrdom",
+            "date": "Week 1"
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "title": "Fivefold Ministry:The Church || Orderliness Giving Prophetic Words/ Demons.",
+        "audios": [
+          {
+            "id": "int_w2_a1",
+            "title": "Fivefold Ministry:The Church",
+            "date": "2019"
+          },
+          {
+            "id": "int_w2_a2",
+            "title": "Orderliness Giving Prophetic Words/ Demons",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "title": "The Body Of Christ || Food Offered To Idols",
+        "audios": [
+          {
+            "id": "int_w3_a1",
+            "title": "The Body Of Christ",
+            "date": "2018"
+          },
+          {
+            "id": "int_w3_a2",
+            "title": "Food Offered To Idols",
+            "date": "2018"
+          },
+          {
+            "id": "int_w3_a3",
+            "title": "Food Offered To Idols",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "title": "Receive The Discipline Of The Lord || Fire Of God",
+        "audios": [
+          {
+            "id": "int_w4_a1",
+            "title": "Receive The Discipline Of The Lord",
+            "date": "2018"
+          },
+          {
+            "id": "int_w4_a2",
+            "title": "Fire Of God",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 5,
+        "title": "Power Of The Tongue || Four Pillars Of The Church",
+        "audios": [
+          {
+            "id": "int_w5_a1",
+            "title": "Power Of The Tongue ",
+            "date": "2021"
+          },
+          {
+            "id": "int_w5_a2",
+            "title": "Four Pillars Of The Church",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 6,
+        "title": "Understanding The Jezebel Spirit || Preparing The Bride/ The 3 Yeasts",
+        "audios": [
+          {
+            "id": "int_w6_a1",
+            "title": "Understanding The Jezebel Spirit",
+            "date": "2018"
+          },
+          {
+            "id": "int_w6_a2",
+            "title": "Preparing The Bride/ The 3 Yeasts",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 7,
+        "title": "Buffeting The Flesh || The Dual Commission",
+        "audios": [
+          {
+            "id": "int_w7_a1",
+            "title": "Buffeting The Flesh",
+            "date": "2021"
+          },
+          {
+            "id": "int_w7_a2",
+            "title": "Buffeting The Flesh",
+            "date": "2021"
+          },
+          {
+            "id": "int_w7_a3",
+            "title": "Buffeting The Flesh",
+            "date": "2021"
+          },
+          {
+            "id": "int_w7_a4",
+            "title": "Buffeting The Flesh",
+            "date": "2021"
+          },
+          {
+            "id": "int_w7_a5",
+            "title": "Buffeting The Flesh",
+            "date": "2021"
+          },
+          {
+            "id": "int_w7_a6",
+            "title": "Buffeting The Flesh",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 8,
+        "title": "The Absalom Spirit || Times And Seasons",
+        "audios": [
+          {
+            "id": "int_w8_a1",
+            "title": "The Absalom Spirit",
+            "date": "2021"
+          },
+          {
+            "id": "int_w8_a2",
+            "title": "Times And Seasons",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 9,
+        "title": "GAMKA - What Is Ministry || GAMKA - Body Ministry || On Skill Acquisition",
+        "audios": [
+          {
+            "id": "int_w9_a1",
+            "title": "On Skill Acquisition",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 10,
+        "title": "Jacob vs Esau || Prophetic Fulfilments Of God's Will",
+        "audios": [
+          {
+            "id": "int_w10_a1",
+            "title": "Jacob vs Esau",
+            "date": "2019"
+          },
+          {
+            "id": "int_w10_a2",
+            "title": "Prophetic Fulfilments Of God's Will",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 11,
+        "title": "Study On The Book Of Titus. || The Job Of Priests And Lessons from 1 Samuel 4.",
+        "audios": [
+          {
+            "id": "int_w11_a1",
+            "title": "Study On The Book Of Titus",
+            "date": "2017"
+          },
+          {
+            "id": "int_w11_a2",
+            "title": "The Job Of Priests And Lessons from 1 Samuel 4.",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 12,
+        "title": "How to Conquer Amalek/Job, the Righteous. || Lessons From Job",
+        "audios": [
+          {
+            "id": "int_w12_a1",
+            "title": "How to Conquer Amalek/Job, the Righteous",
+            "date": "2019"
+          },
+          {
+            "id": "int_w12_a2",
+            "title": "How to Conquer Amalek/Job, the Righteous",
+            "date": "2019"
+          },
+          {
+            "id": "int_w12_a3",
+            "title": "How to Conquer Amalek/Job, the Righteous",
+            "date": "2019"
+          },
+          {
+            "id": "int_w12_a4",
+            "title": "How to Conquer Amalek/Job, the Righteous",
+            "date": "2019"
+          },
+          {
+            "id": "int_w12_a5",
+            "title": "Lessons From Job",
+            "date": "2022"
+          },
+          {
+            "id": "int_w12_a6",
+            "title": "Lessons From Job",
+            "date": "2022"
+          }
+        ]
+      },
+      {
+        "weekNumber": 13,
+        "title": "Lions And Prophets || New Covenant Vs Old Covenant",
+        "audios": [
+          {
+            "id": "int_w13_a1",
+            "title": "Lions And Prophets",
+            "date": "2022"
+          },
+          {
+            "id": "int_w13_a2",
+            "title": "Lions And Prophets",
+            "date": "2022"
+          },
+          {
+            "id": "int_w13_a3",
+            "title": "New Covenant Vs Old Covenant",
+            "date": "2022"
+          }
+        ]
+      },
+      {
+        "weekNumber": 14,
+        "title": "Circumcision/ Old Wine Skin Vs New Wine Skin. || Study On Joseph.",
+        "audios": [
+          {
+            "id": "int_w14_a1",
+            "title": "Circumcision/ Old Wine Skin Vs New Wine Skin",
+            "date": "2022"
+          },
+          {
+            "id": "int_w14_a2",
+            "title": "Study On Joseph",
+            "date": "2022"
+          }
+        ]
+      },
+      {
+        "weekNumber": 15,
+        "title": "Silencing The Enemy And The Avenger || Study On Zion",
+        "audios": [
+          {
+            "id": "int_w15_a1",
+            "title": "Silencing The Enemy And The Avenger",
+            "date": "2019"
+          },
+          {
+            "id": "int_w15_a2",
+            "title": "Silencing The Enemy And The Avenger",
+            "date": "2019"
+          },
+          {
+            "id": "int_w15_a3",
+            "title": "Study On Zion",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 16,
+        "title": "Essence Of God's Test || Burden For The Church: Zion, Leave Babylon. ",
+        "audios": [
+          {
+            "id": "int_w16_a1",
+            "title": "Essence Of God's Test",
+            "date": "2019"
+          },
+          {
+            "id": "int_w16_a2",
+            "title": "Burden For The Church: Zion, Leave Babylon",
+            "date": "2022"
+          }
+        ]
+      },
+      {
+        "weekNumber": 17,
+        "title": "Kingdom Of God Vs Kingdom Of Satan || Nehemiah: Rebuilding Zion",
+        "audios": [
+          {
+            "id": "int_w17_a1",
+            "title": "Kingdom Of God Vs Kingdom Of Satan",
+            "date": "2022"
+          },
+          {
+            "id": "int_w17_a2",
+            "title": "Nehemiah: Rebuilding Zion",
+            "date": "2020"
+          },
+          {
+            "id": "int_w17_a3",
+            "title": "Nehemiah: Rebuilding Zion",
+            "date": "2020"
+          },
+          {
+            "id": "int_w17_a4",
+            "title": "Nehemiah: Rebuilding Zion",
+            "date": "2020"
+          },
+          {
+            "id": "int_w17_a5",
+            "title": "Nehemiah: Rebuilding Zion",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 18,
+        "title": "New Covenant || Getting Ready For The Last Days",
+        "audios": [
+          {
+            "id": "int_w18_a1",
+            "title": "Getting Ready For The Last Days",
+            "date": "2019"
+          },
+          {
+            "id": "int_w18_a2",
+            "title": "Getting Ready For The Last Days",
+            "date": "2019"
+          },
+          {
+            "id": "int_w18_a3",
+            "title": "Getting Ready For The Last Days",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 19,
+        "title": "Discerning The Enemy's Wiles. || About Oil/Inner Court Vs Outer Court Priests.",
+        "audios": [
+          {
+            "id": "int_w19_a1",
+            "title": "About Oil/Inner Court Vs Outer Court Priests",
+            "date": "2020"
+          },
+          {
+            "id": "int_w19_a2",
+            "title": "About Oil/Inner Court Vs Outer Court Priests",
+            "date": "2020"
+          },
+          {
+            "id": "int_w19_a3",
+            "title": "About Oil/Inner Court Vs Outer Court Priests",
+            "date": "2020"
+          },
+          {
+            "id": "int_w19_a4",
+            "title": "About Oil/Inner Court Vs Outer Court Priests",
+            "date": "2020"
+          },
+          {
+            "id": "int_w19_a5",
+            "title": "Discerning The Enemy's Wiles",
+            "date": "2020"
+          },
+          {
+            "id": "int_w19_a6",
+            "title": "Discerning The Enemy's Wiles",
+            "date": "2020"
+          },
+          {
+            "id": "int_w19_a7",
+            "title": "Discerning The Enemy's Wiles",
+            "date": "2020"
+          },
+          {
+            "id": "int_w19_a8",
+            "title": "Discerning The Enemy's Wiles",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 20,
+        "title": "Samson And The Jehoram Spirit || A Study On 2 Peter",
+        "audios": [
+          {
+            "id": "int_w20_a1",
+            "title": "Samson And The Jehoram Spirit",
+            "date": "2018"
+          },
+          {
+            "id": "int_w20_a2",
+            "title": "A Study On 2 Peter",
+            "date": "2018"
+          },
+          {
+            "id": "int_w20_a3",
+            "title": "A Study On 2 Peter",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 21,
+        "title": "The Path Of Cain || Isaac Vs Ishmael: A Tale Of Two Cities",
+        "audios": [
+          {
+            "id": "int_w21_a1",
+            "title": "The Path Of Cain ",
+            "date": "2019"
+          },
+          {
+            "id": "int_w21_a2",
+            "title": "Isaac Vs Ishmael: A Tale Of Two Cities",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 22,
+        "title": "Spirit Of Truth And Babylon. || Blindness, Isaiah's Calling",
+        "audios": [
+          {
+            "id": "int_w22_a1",
+            "title": "Spirit Of Truth And Babylon",
+            "date": "2019"
+          },
+          {
+            "id": "int_w22_a2",
+            "title": "Spirit Of Truth And Babylon",
+            "date": "2019"
+          },
+          {
+            "id": "int_w22_a3",
+            "title": "Blindness, Isaiah's Calling",
+            "date": "2021"
+          },
+          {
+            "id": "int_w22_a4",
+            "title": "Blindness, Isaiah's Calling",
+            "date": "2021"
+          },
+          {
+            "id": "int_w22_a5",
+            "title": "Blindness, Isaiah's Calling",
+            "date": "2021"
+          },
+          {
+            "id": "int_w22_a6",
+            "title": "Blindness, Isaiah's Calling",
+            "date": "2021"
+          },
+          {
+            "id": "int_w22_a7",
+            "title": "Blindness, Isaiah's Calling",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 23,
+        "title": "Morning Star Company/ About Pharisees. || Lessons From Jeroboam.",
+        "audios": [
+          {
+            "id": "int_w23_a1",
+            "title": "Morning Star Company/ About Pharisees.",
+            "date": "2021"
+          },
+          {
+            "id": "int_w23_a2",
+            "title": "Morning Star Company/ About Pharisees.",
+            "date": "2021"
+          },
+          {
+            "id": "int_w23_a3",
+            "title": "Lessons From Jeroboam",
+            "date": "2021"
+          },
+          {
+            "id": "int_w23_a4",
+            "title": "Lessons From Jeroboam",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 24,
+        "title": "Luke 12/Yeasts. || 28/5/2021",
+        "audios": [
+          {
+            "id": "int_w24_a1",
+            "title": "Luke 12/Yeasts",
+            "date": "2018"
+          },
+          {
+            "id": "int_w24_a2",
+            "title": "Tarry (28/5/2021)",
+            "date": "28-5-2021"
+          },
+          {
+            "id": "int_w24_a3",
+            "title": "Tarry (28/5/2021)",
+            "date": "28-5-2021"
+          },
+          {
+            "id": "int_w24_a4",
+            "title": "Tarry (28/5/2021)",
+            "date": "28-5-2021"
+          },
+          {
+            "id": "int_w24_a5",
+            "title": "Tarry (28/5/2021)",
+            "date": "28-5-2021"
+          },
+          {
+            "id": "int_w24_a6",
+            "title": "Tarry (28/5/2021)",
+            "date": "28-5-2021"
+          },
+          {
+            "id": "int_w24_a7",
+            "title": "Tarry (28/5/2021)",
+            "date": "28-5-2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 25,
+        "title": "The Kingdom Of God/Understanding Money. || Commit Your Activities To The Lord/ Women In Ministry.",
+        "audios": [
+          {
+            "id": "int_w25_a1",
+            "title": "The Kingdom Of God/Understanding Money",
+            "date": "2020"
+          },
+          {
+            "id": "int_w25_a2",
+            "title": "Commit Your Activities To The Lord/ Women In Ministry",
+            "date": "2020"
+          },
+          {
+            "id": "int_w25_a3",
+            "title": "Commit Your Activities To The Lord/ Women In Ministry",
+            "date": "2020"
+          },
+          {
+            "id": "int_w25_a4",
+            "title": "Commit Your Activities To The Lord/ Women In Ministry",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 26,
+        "title": "Esther: Meek And Quiet Spirit. || Clear Conscience",
+        "audios": [
+          {
+            "id": "int_w26_a1",
+            "title": "Esther: Meek And Quiet Spirit",
+            "date": "2020"
+          },
+          {
+            "id": "int_w26_a2",
+            "title": "Clear Conscience",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 27,
+        "title": "Last Days And 10 Virgins || 7 Things The Lord Hates.",
+        "audios": [
+          {
+            "id": "int_w27_a1",
+            "title": "Last Days And 10 Virgins",
+            "date": "2019"
+          },
+          {
+            "id": "int_w27_a2",
+            "title": "Last Days And 10 Virgins",
+            "date": "2019"
+          },
+          {
+            "id": "int_w27_a3",
+            "title": "Last Days And 10 Virgins",
+            "date": "2020"
+          },
+          {
+            "id": "int_w27_a4",
+            "title": "Last Days And 10 Virgins",
+            "date": "2019"
+          },
+          {
+            "id": "int_w27_a5",
+            "title": "7 Things The Lord Hates",
+            "date": "2018"
+          },
+          {
+            "id": "int_w27_a6",
+            "title": "7 Things The Lord Hates",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 28,
+        "title": "Joshua Generation Preparation || Unity With Host Of Heaven.",
+        "audios": [
+          {
+            "id": "int_w28_a1",
+            "title": "Joshua Generation Preparation",
+            "date": "2020"
+          },
+          {
+            "id": "int_w28_a2",
+            "title": "Joshua Generation Preparation",
+            "date": "2020"
+          },
+          {
+            "id": "int_w28_a3",
+            "title": "Unity With Host Of Heaven",
+            "date": "2020"
+          },
+          {
+            "id": "int_w28_a4",
+            "title": "Unity With Host Of Heaven",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 29,
+        "title": "Lessons From Lot's Life || About Catholic Church Mystery Babylon",
+        "audios": [
+          {
+            "id": "int_w29_a1",
+            "title": "Lessons From Lot's Life",
+            "date": "2019"
+          },
+          {
+            "id": "int_w29_a2",
+            "title": "About Catholic Church Mystery Babylon",
+            "date": "2019"
+          },
+          {
+            "id": "int_w29_a3",
+            "title": "About Catholic Church Mystery Babylon",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 30,
+        "title": "The Righteousness Of The Saints/ Laodicean church. || Elijah Company.",
+        "audios": [
+          {
+            "id": "int_w30_a1",
+            "title": "The Righteousness Of The Saints/ Laodicean church",
+            "date": "2017"
+          },
+          {
+            "id": "int_w30_a2",
+            "title": "Elijah Company",
+            "date": "2017"
+          },
+          {
+            "id": "int_w30_a3",
+            "title": "Elijah Company",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 31,
+        "title": "Words For Fathers, Young men And Children || Callings And Purpose",
+        "audios": [
+          {
+            "id": "int_w31_a1",
+            "title": "Words For Fathers, Young men And Children",
+            "date": "2017"
+          },
+          {
+            "id": "int_w31_a2",
+            "title": "Words For Fathers, Young men And Children",
+            "date": "2017"
+          },
+          {
+            "id": "int_w31_a3",
+            "title": "Callings And Purpose",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 32,
+        "title": "Grace And Law 2 || GAMKA - Introduction To Gifts And Ministries || GAMKA - Prophecy And Serving",
+        "audios": [
+          {
+            "id": "int_w32_a1",
+            "title": "Grace And Law 2",
+            "date": "2017"
+          }
+        ]
+      },
+      {
+        "weekNumber": 33,
+        "title": "Government || Prophecy",
+        "audios": [
+          {
+            "id": "int_w33_a1",
+            "title": "Government",
+            "date": "2017"
+          },
+          {
+            "id": "int_w33_a2",
+            "title": "Government",
+            "date": "2017"
+          },
+          {
+            "id": "int_w33_a3",
+            "title": "Government",
+            "date": "2017"
+          },
+          {
+            "id": "int_w33_a4",
+            "title": "Government",
+            "date": "2017"
+          },
+          {
+            "id": "int_w33_a5",
+            "title": "Prophecy",
+            "date": "2020"
+          }
+        ]
+      }
+    ]
+  },
+
+  "advanced": {
+    "title": "Advanced",
+    "description": "Deep spiritual teachings for mature believers",
+    "completed": false,
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "title": "Children's Ministry || Get ready: A Study On Matthew 24",
+        "audios": [
+          {
+            "id": "adv_w1_a1",
+            "title": "Children's Ministry 1",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w1_a2",
+            "title": "Children's Ministry 2",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w1_a3",
+            "title": "Get ready: A Study On Matthew 24",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w1_a4",
+            "title": "Get ready: A Study On Matthew 24 [b]",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "title": "Discipleship: A Teaching on Lords And Gods. || Music Ministry",
+        "audios": [
+          {
+            "id": "adv_w2_a1",
+            "title": "Discipleship: A Teaching on Lords And Gods",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w2_a2",
+            "title": "Music Ministry",
+            "date": "2019"
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "title": "Sabbath Seasons || Ministry Of Angels",
+        "audios": [
+          {
+            "id": "adv_w3_a1",
+            "title": "Sabbath Seasons",
+            "date": "2019"
+          },
+          {
+            "id": "adv_w3_a2",
+            "title": "Sabbath Seasons",
+            "date": "2019"
+          },
+          {
+            "id": "adv_w3_a3",
+            "title": "Ministry Of Angels",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "title": "Marrying In Your Tribe || Understanding Predestination.",
+        "audios": [
+          {
+            "id": "adv_w4_a1",
+            "title": "Marrying In Your Tribe",
+            "date": "2019"
+          },
+          {
+            "id": "adv_w4_a2",
+            "title": "Marrying In Your Tribe [b]",
+            "date": "2019"
+          },
+          {
+            "id": "adv_w4_a3",
+            "title": "Understanding Predestination",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 5,
+        "title": "Lords Many And gods Many || Inventions Of Nephilim",
+        "audios": [
+          {
+            "id": "adv_w5_a1",
+            "title": "Lords Many And gods Many",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w5_a2",
+            "title": "Lords Many And gods Many",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w5_a3",
+            "title": "Lords Many And gods Many",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w5_a4",
+            "title": "Inventions Of Nephilim",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 6,
+        "title": "River Of Life, Tree Of Life || The Beginning And The End",
+        "audios": [
+          {
+            "id": "adv_w6_a1",
+            "title": "River Of Life, Tree Of Life",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w6_a2",
+            "title": "The Beginning And The End -A",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w6_a3",
+            "title": "The Beginning And The End -B",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w6_a4",
+            "title": "The Beginning And The End -C",
+            "date": "2020"
+          }
+        ]
+      },
+      {
+        "weekNumber": 7,
+        "title": "Free Will And Sovereignty || Significance Of '3 Days'",
+        "audios": [
+          {
+            "id": "adv_w7_a1",
+            "title": "Significance Of '3 Days'",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w7_a2",
+            "title": "Free Will And Sovereignty",
+            "date": "2018"
+          },
+          {
+            "id": "adv_w7_a3",
+            "title": "Free Will And Sovereignty 02",
+            "date": "2018"
+          }
+        ]
+      },
+      {
+        "weekNumber": 8,
+        "title": "Jubilee, The Principle Of Seed || Glorious Beings",
+        "audios": [
+          {
+            "id": "adv_w8_a1",
+            "title": "Jubilee, The Principle Of Seed",
+            "date": "2019"
+          },
+          {
+            "id": "adv_w8_a2",
+            "title": "Glorious Beings",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a3",
+            "title": "Glorious Beings B",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a4",
+            "title": "Glorious Beings C",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a5",
+            "title": "Glorious Beings D",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a6",
+            "title": "Glorious Beings E",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a7",
+            "title": "Glorious Beings 3A",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a8",
+            "title": "Glorious Beings 3B",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a9",
+            "title": "Glorious Beings 3C",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a10",
+            "title": "Glorious Beings 3D",
+            "date": "2021"
+          },
+          {
+            "id": "adv_w8_a11",
+            "title": "Glorious Beings 3E",
+            "date": "2021"
+          }
+        ]
+      },
+      {
+        "weekNumber": 9,
+        "title": "Aionian Judgement 1 || Aionian Judgement 2",
+        "audios": [
+          {
+            "id": "adv_w9_a1",
+            "title": "Aionian Judgement 1",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w9_a2",
+            "title": "Aionian Judgement 2",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w9_a3",
+            "title": "Aionian Judgement 3",
+            "date": "2020"
+          },
+          {
+            "id": "adv_w9_a4",
+            "title": "Aionian Judgement 4",
+            "date": "2020"
+          }
+        ]
+      }
+    ]
+  
+  }
+
+}
