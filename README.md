@@ -21,3 +21,9 @@ The Official server for the God's Lighthouse Starter Pack.
 --- No verification process
 --- auth details get stored in react native async storage
 
+# Run tests
+pytest test_api.py -v
+python -m pytest
+
+# Run with coverage
+pytest test_api.py --cov=app -v
