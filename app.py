@@ -6,8 +6,6 @@ from fastapi import (
     Depends
 )
 from fastapi.middleware.cors import CORSMiddleware
-# from bson.objectid import ObjectId
-# from typing import List, Optional
 from datetime import datetime
 from utils.database import connect_to_db
 from utils.models import (
@@ -33,7 +31,7 @@ origins = ["*"]
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
-    allow_credentials=False,
+    allow_credentials=True,
     allow_headers=["*"],
     allow_methods=["*"],
 )
